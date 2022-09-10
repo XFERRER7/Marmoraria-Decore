@@ -1,0 +1,21 @@
+.item-catalogo {
+  height: 70px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  margin-top: 20px;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.item-title {
+  min-width: 200px;
+  padding: 5px;
+  font-size: 24px;
+  border-radius: 5px;
+  text-align: center;
+  background-color: #0a0a0a49;
+}

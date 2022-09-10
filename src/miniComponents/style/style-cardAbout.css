@@ -1,0 +1,15 @@
+.box-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: #202020;
+  width:33.33%;
+  padding: 30px;
+  font-size: 0.9rem;
+  gap: 10px;
+}
+
+.icone {
+  font-size: 30px;
+}

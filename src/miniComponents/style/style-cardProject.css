@@ -1,0 +1,35 @@
+.card-main {
+  height: 350px;
+  color: #ffffff;
+  width: 300px;
+  margin: 20px auto;
+  margin-bottom: 50px;
+  border-radius: 5px;
+  padding: 10px 0px 10px 0px;
+  transition: all 0.8s ease;
+
+}
+
+.card-main:hover {
+  transform: scale(1.03);
+}
+
+
+.title-card {
+  padding: 5px;
+  text-align: center;
+}
+
+.descricao-card {
+  padding: 10px 5px 10px 5px;
+  font-size: 0.85rem;
+
+}
+
+#card-img-project {
+  height: 70%;
+  width: 100%;
+  object-fit: cover;
+  object-position: center center;
+  border: 3px solid white;
+}

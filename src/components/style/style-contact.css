@@ -1,0 +1,28 @@
+.section-c {
+  background-color: #0f0f0f;
+
+}
+
+#main-div-img {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  font-size: 3rem;
+  justify-items: center;
+  padding: 15px;
+  margin-bottom: 50px;
+}
+
+.div-img {
+  display: inline-block;
+  width: 25%;
+  text-align: center;
+}
+
+.div-linha {
+  height: 2px;
+  width: 100%;
+}
+
+.media {
+  text-align: center;
+}
